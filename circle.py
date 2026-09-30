@@ -12,7 +12,7 @@ def area(r):
     float: Площадь круга.
 
     Пример вызова:
-    >>>area()
+    >>>area(5)
     78.53981633974483
     '''
     return math.pi * r * r
